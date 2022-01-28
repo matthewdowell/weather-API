@@ -8,7 +8,7 @@ Building and testing a json API
 npm install
 ```
 
-Create .env file for API key (https://openweathermap.org/api):
+Create .env file in root folder for API key (https://openweathermap.org/api):
 
 ```bash
 API_KEY=your API key goes here
