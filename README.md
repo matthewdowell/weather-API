@@ -2,7 +2,7 @@
 
 Building and testing a json API
 
-Installation:
+**Installation:**
 
 ```bash
 npm install
@@ -14,7 +14,7 @@ Create .env file for API key (https://openweathermap.org/api):
 API_KEY=your API key goes here
 ```
 
-Start App:
+**Start App:**
 
 ```bash
 npm start
@@ -29,7 +29,7 @@ or
 curl http://localhost:3000/local/{zipcode}
 ```
 
-Test API:
+**Test API:**
 
 ```bash
 npx jest
