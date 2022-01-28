@@ -14,6 +14,8 @@ Create .env file for API key (https://openweathermap.org/api):
 API_KEY=your API key goes here
 ```
 
+Start App:
+
 ```bash
 npm start
 ```
