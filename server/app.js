@@ -3,7 +3,6 @@ const {default: axios} = require('axios');
 require('dotenv').config();
 
 const app = express();
-app.use(express.json());
 
 app.get('/local/:zip', async (req, res) => {
   try {
